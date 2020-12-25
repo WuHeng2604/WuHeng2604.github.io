@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>個人簡介</title>
     </head>
     <body>
         <h3>相片</h3>
